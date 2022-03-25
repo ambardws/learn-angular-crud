@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 10000,
+      "comment": "New Fruit",
+      "date": "2022-03-17T17:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Laptop",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 200000,
+      "comment": "Asus 505",
+      "date": "2022-03-21T17:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
